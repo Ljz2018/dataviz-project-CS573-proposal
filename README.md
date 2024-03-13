@@ -14,19 +14,29 @@ The following tasks and questions will drive the visualization and interaction d
    - Which part of the earth has the most seismic activity in the past 30 days?
  * Is there any correlation between the magnitude of earthquake and the depth of earthquake?
  * Are there any interesting patterns of the earthquakes at the region with the most seismic activity?
+ * Make interactions such as:
+   - Brushing
+   - Zooming
+   - Dragging
    
 ## Sketches
 
 ![image](https://github.com/Ljz2018/dataviz-project-CS573-proposal/blob/master/Sketch01.jpg)
+
+How is the data visualized:
 
 * Make a would map.
 * Add tectonic plates boundries onto the world map.
 * Use circles to represent the earthquakes. Plot the earthquakes on the world map according to its longitude and latitude.
 * Circle sizes will be based on the value of magnitude of the earthquakes.
 * Colors will be added to the circles to show the depth (or time) of the earthquake.
+
+What are the interactions:
+
 * Use tooltip to show infomation (including Magnitude, Location, and Depth) about each earthquake when hover on to the circle.
 * Associate each circle(earthquake) with its own webpage(a url) at USGU.gov. By clicking the circle, the user will be directed to the information page of this earthquake.
 * Add brushing and zooming in this dataviz to select ceritan earthquakes on tha map. And make a line chart of the seleceted earthquakes to check if there are any intereting patterns.
+* Add dragging in this dataviz to rotate the world map.
 
 (insert one or more hand-drawn sketches of interactive visualizations that you imagine)
 (describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
@@ -34,7 +44,7 @@ The following tasks and questions will drive the visualization and interaction d
 
 ## Prototypes
 
-I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
+I’ve created a proof of concept visualization of this data. It's a world map with earthquakes plotted onto it. 
 
 [![image](https://github.com/Ljz2018/dataviz-project-CS573-proposal/blob/master/Screen%20Shot%2001.png)](https://vizhub.com/Ljz2018/32391bf1ef224afa9cf55c1efcbb75e0)
 
