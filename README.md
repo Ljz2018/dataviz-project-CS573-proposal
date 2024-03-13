@@ -14,7 +14,7 @@ The following tasks and questions will drive the visualization and interaction d
    - Which part of the earth has the most seismic activity in the past 30 days?
  * Is there any correlation between the magnitude of earthquake and the depth of earthquake?
  * Are there any interesting patterns of the earthquakes at the region with the most seismic activity?
-
+   
 ## Sketches
 
 (insert one or more hand-drawn sketches of interactive visualizations that you imagine)
