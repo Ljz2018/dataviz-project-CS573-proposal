@@ -10,12 +10,10 @@ The data I propose to visualize for my project is a real-time feeds of the earth
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
  * Plot earthquakes on the world map to show:
-   - Do seismic activity majorly happen along the edge of tetonic plates?
-   - Which part of the earth has the most seismic activity?
- * (insert your question or task here) How does the X vary over time?
- * (insert your question or task here) Is there any correlation between X and Y?
- * (insert your question or task here) Are there interesting spatial patterns in X?
- * (insert your question or task here) How many X are there across different Y?
+   - If seismic activity majorly happen along the edge of tectonic plates?
+   - Which part of the earth has the most seismic activity in the past 30 days?
+ * Is there any correlation between the magnitude of earthquake and the depth of earthquake?
+ * Are there any interesting patterns of the earthquakes at the region with the most seismic activity?
 
 ## Sketches
 
