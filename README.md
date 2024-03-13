@@ -19,8 +19,14 @@ The following tasks and questions will drive the visualization and interaction d
 
 ![image](https://github.com/Ljz2018/dataviz-project-CS573-proposal/blob/master/Sketch01.jpg)
 
-* Each earthquake are represented as a circle and plotted on the world map according to its longitude and latitude.
-* Circle sizes will be based on the value of magnitude of each earthquake. 
+* Make a would map.
+* Add tectonic plates boundries onto the world map.
+* Use circles to represent the earthquakes. Plot the earthquakes on the world map according to its longitude and latitude.
+* Circle sizes will be based on the value of magnitude of the earthquakes.
+* Colors will be added to the circles to show the depth (or time) of the earthquake.
+* Use tooltip to show infomation (including Magnitude, Location, and Depth) about each earthquake when hover on to the circle.
+* Associate each circle(earthquake) with its own webpage(a url) at USGU.gov. By clicking the circle, the user will be directed to the information page of this earthquake.
+* Add brushing and zooming in this dataviz to select ceritan earthquakes on tha map. And make a line chart of the seleceted earthquakes to check if there are any intereting patterns.
 
 (insert one or more hand-drawn sketches of interactive visualizations that you imagine)
 (describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
