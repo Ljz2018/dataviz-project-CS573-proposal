@@ -17,7 +17,7 @@ The following tasks and questions will drive the visualization and interaction d
    
 ## Sketches
 
-[![image](https://github.com/Ljz2018/dataviz-project-CS573-proposal/blob/master/Sketch01.jpg)]
+![image](https://github.com/Ljz2018/dataviz-project-CS573-proposal/blob/master/Sketch01.jpg)
 (insert one or more hand-drawn sketches of interactive visualizations that you imagine)
 (describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
 
