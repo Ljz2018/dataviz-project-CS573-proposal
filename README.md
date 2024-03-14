@@ -59,7 +59,8 @@ Previous questions:
 Thanks to Professor Kelleher. He helped me on solving the above questions.
 
 More questions to add:
-...
+
+* Any ideas of what other plots or charts that I can make from this set of data?
 
 (describe any fear, uncertainty, or doubt you’re having about the feasibility of implementing the sketched system. For example, “I’m not sure where to get the geographic shapes to build a map from this data” or “I don’t know how to resolve the codes to meaningful names” … Feel free to delete this section if you’re confident.)
 
