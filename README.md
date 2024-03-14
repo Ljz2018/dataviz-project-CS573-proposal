@@ -72,7 +72,6 @@ More questions to add:
   place,
   significance
 
-(describe any fear, uncertainty, or doubt you’re having about the feasibility of implementing the sketched system. For example, “I’m not sure where to get the geographic shapes to build a map from this data” or “I don’t know how to resolve the codes to meaningful names” … Feel free to delete this section if you’re confident.)
 
 ## Milestones (6 weeks to go)
 
