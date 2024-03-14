@@ -48,6 +48,11 @@ I’ve created a proof of concept visualization of this data. It's a world map w
 
 [![image](https://github.com/Ljz2018/dataviz-project-CS573-proposal/blob/master/Screen%20Shot%2001.png)](https://vizhub.com/Ljz2018/32391bf1ef224afa9cf55c1efcbb75e0)
 
+
+[![image](https://github.com/Ljz2018/dataviz-project-CS573-proposal/blob/master/Screen%20shot%2002.png)]
+(https://vizhub.com/Ljz2018/6f179af027ab4495b08506720de46bed)
+
+
 (please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments, and link to them)
 
 You can put images into here by pasting them into issues.
