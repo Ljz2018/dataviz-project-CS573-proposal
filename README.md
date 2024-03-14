@@ -38,33 +38,15 @@ What are the interactions:
 * Add brushing and zooming in this dataviz to select ceritan earthquakes on tha map. And make a line chart of the seleceted earthquakes to check if there are any intereting patterns.
 * Add dragging in this dataviz to rotate the world map.
 
-(insert one or more hand-drawn sketches of interactive visualizations that you imagine)
-(describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
-
-
 ## Prototypes
 
 I’ve created a proof of concept visualization of this data. It's a world map with earthquakes plotted onto it. 
 
 [![image](https://github.com/Ljz2018/dataviz-project-CS573-proposal/blob/master/Screen%20Shot%2001.png)](https://vizhub.com/Ljz2018/32391bf1ef224afa9cf55c1efcbb75e0)
 
+A scattor plot of time vs magnitude. The color of the dots represent the depth of the earthquakes.
 
-[![image](https://github.com/Ljz2018/dataviz-project-CS573-proposal/blob/master/Screen%20shot%2002.png)]
-(https://vizhub.com/Ljz2018/6f179af027ab4495b08506720de46bed)
-
-
-(please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments, and link to them)
-
-You can put images into here by pasting them into issues.
-
-You can make images into links like this:
-
-```
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
-```
-
-
-Also, you can study the [source](https://raw.githubusercontent.com/curran/dataviz-project-template-proposal/master/README.md) to figure out Markdown formatting. You can use the GitHub built-in editor to edit the document.
+[![image](https://github.com/Ljz2018/dataviz-project-CS573-proposal/blob/master/Screen%20shot%2002.png)](https://vizhub.com/Ljz2018/6f179af027ab4495b08506720de46bed)
 
 ## Open Questions
 
