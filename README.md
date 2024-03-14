@@ -62,6 +62,16 @@ More questions to add:
 
 * Any ideas of what other plots or charts that I can make from this set of data?
 
+  The dataset includes the following features:
+
+  time,
+  magnitude,
+  longitude,
+  latitude,
+  depth,
+  place,
+  significance
+
 (describe any fear, uncertainty, or doubt you’re having about the feasibility of implementing the sketched system. For example, “I’m not sure where to get the geographic shapes to build a map from this data” or “I don’t know how to resolve the codes to meaningful names” … Feel free to delete this section if you’re confident.)
 
 ## Milestones (6 weeks to go)
@@ -84,11 +94,11 @@ Week 3:
 
 Week 4:
 
-* 
+* ...
 
 Week 5:
 
-*
+* ...
 
 Week 6:
 
