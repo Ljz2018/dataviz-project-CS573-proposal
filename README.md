@@ -15,9 +15,9 @@ The following tasks and questions will drive the visualization and interaction d
  * Is there any correlation between the magnitude of earthquake and the depth of earthquake?
  * Are there any interesting patterns of the earthquakes at the region with the most seismic activity?
  * Make interactions such as:
-   - Brushing
-   - Zooming
-   - Dragging
+   - Brushing (to select cirlces)
+   - Zooming (to zoom in and zoom out on the map)
+   - Dragging (to rotate the map)
    
 ## Sketches
 
@@ -25,7 +25,7 @@ The following tasks and questions will drive the visualization and interaction d
 
 How is the data visualized:
 
-* Make a would map.
+* Make a world map.
 * Add tectonic plates boundries onto the world map.
 * Use circles to represent the earthquakes. Plot the earthquakes on the world map according to its longitude and latitude.
 * Circle sizes will be based on the value of magnitude of the earthquakes.
@@ -63,8 +63,44 @@ Also, you can study the [source](https://raw.githubusercontent.com/curran/datavi
 
 ## Open Questions
 
+Previous questions:
+
+* How to pull data from an API
+* How to associate url with the cirlce in data viz
+* How to rotate the angle of a 2D map
+
+Thanks to Professor Kelleher. He helped me on solving the above questions.
+
+More questions to add:
+...
+
 (describe any fear, uncertainty, or doubt you’re having about the feasibility of implementing the sketched system. For example, “I’m not sure where to get the geographic shapes to build a map from this data” or “I don’t know how to resolve the codes to meaningful names” … Feel free to delete this section if you’re confident.)
 
-## Milestones
+## Milestones (6 weeks to go)
+
+Week 1:
+
+Add dragging to rotatet the angle of the map.
+
+
+Week 2:
+
+
+
+Week 3:
+
+
+
+Week 4:
+
+
+
+Week 5:
+
+
+
+Week 6:
+
+
 
 (for each week, estimate what would be accomplised)
