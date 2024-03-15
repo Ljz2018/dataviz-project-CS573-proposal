@@ -101,6 +101,6 @@ Week 5:
 
 Week 6:
 
-* Record the vedio presentation of the final project.
+* Record the video presentation of the final project.
 
 
