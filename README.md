@@ -64,7 +64,7 @@ A scattor plot of time vs magnitude. The color of the dots represent the depth o
 Week 1:
 
 * Add dragging to rotatet the angle of the map.
-* Add colors to the circles.
+* Add colors to the circles. ==> done
 * Use data from the API for the scatter plot.
 
 Week 2:
