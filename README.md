@@ -44,8 +44,8 @@ What are the interactions:
 
 I’ve created a proof of concept visualization of this data. It's a world map with earthquakes plotted onto it. 
 
-[![image](https://github.com/Ljz2018/dataviz-project-CS573-proposal/assets/139059537/8f07a489-1a4a-4f60-82ed-a577433a3ddd>
-)](https://vizhub.com/Ljz2018/32391bf1ef224afa9cf55c1efcbb75e0)
+[![image](https://github.com/Ljz2018/dataviz-project-CS573-proposal/assets/139059537/1ea517bd-5473-41c7-ac7d-f4261b08f83f>
+)](https://vizhub.com/Ljz2018/d1d19c31db064045b9fdf40949c7c544)
 
 A scattor plot of time vs magnitude. The color of the dots represent the depth of the earthquakes.
 
