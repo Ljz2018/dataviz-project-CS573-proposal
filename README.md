@@ -44,13 +44,26 @@ What are the interactions:
 
 I’ve created a proof of concept visualization of this data. It's a world map with earthquakes plotted onto it. 
 
-[![image](https://github.com/Ljz2018/dataviz-project-CS573-proposal/assets/139059537/1ea517bd-5473-41c7-ac7d-f4261b08f83f>
-)](https://vizhub.com/Ljz2018/d1d19c31db064045b9fdf40949c7c544)
+[![image](https://github.com/Ljz2018/dataviz-project-CS573-proposal/assets/139059537/6e68260a-28f0-4464-9d30-99ae94396a23>)](https://vizhub.com/Ljz2018/a11b81a4002c44edb44c14f259dd948c)
 
 A scattor plot of time vs magnitude. The color of the dots represent the depth of the earthquakes.
 
 [![image](https://github.com/Ljz2018/dataviz-project-CS573-proposal/assets/139059537/aa27cd21-bf9b-457c-830d-3f9867c8531a>
 )](https://vizhub.com/Ljz2018/6f179af027ab4495b08506720de46bed)
+
+## Self-Critique and Reprioritization (Date: 04-10-2024)
+
+I am quite satisfied with the map plot that I made. This map intuitively shows that the majority of the earthquakes were happened along the boundries of the plates. 
+There are more earthquakes around the pacific ocean than the other places on earth. The region along south coastline in Alaska and the west coast of America has the most seismic activities. These earthquakes are dominantly less than Magnitude of 2.5 (M2.5). Luckily, this is the level that won't cause damages and are not felt by human. Click and Check the [Earthquake Magnitude Scale](https://www.mtu.edu/geo/community/seismology/learn/earthquake-measure/magnitude/).
+
+With my limited coding experience, I found it was quite difficult to add all the interactive features into the map plot as I proposed. And I found adding brush would compromise the function of tooltips and accessing the earthquake urls through clicking the circles. Moreover, adding drag to horizontically rotate the map made the zooming and panning become invalid. Thus, I have decided to eliminate brushing and zooming interactions from the design. This map plot has otherwise incorperated with all the rest of the proposed features.
+
+Besides, though the weeks working with this project, I realized that a good data visualization does not necessarily have to be fancy, but it should be easy to understand. It is not an app or a tool, it does not have to include all kinds of interactions. I think the most important thing of data visualization is to deliver the information from the data. 
+
+
+
+
+
 
 ## Open Questions
 
@@ -65,12 +78,12 @@ Week 1:
 
 * Add dragging to rotatet the angle of the map. ==> done
 * Add colors to the circles. ==> done
-* Use data from the API for the scatter plot.
+* Use data from the API for the scatter plot.==> done
 
 Week 2:
 
 * Add dropdown menu of Depth and Magnitude. ==> done
-* Add tooltip on circles
+* Add tooltip on circles==> done
 * Add zooming 
 
 Week 3:
