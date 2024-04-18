@@ -44,7 +44,8 @@ What are the interactions:
 
 I’ve created a proof of concept visualization of this data. It's a world map with earthquakes plotted onto it. 
 
-[![image](https://github.com/Ljz2018/dataviz-project-CS573-proposal/assets/139059537/6e68260a-28f0-4464-9d30-99ae94396a23>)](https://vizhub.com/Ljz2018/a11b81a4002c44edb44c14f259dd948c)
+![image](https://github.com/Ljz2018/dataviz-project-CS573-proposal/assets/139059537/c42c38c4-d116-4da8-8eed-c8ac2067f67e
+)
 
 A scattor plot of time vs magnitude. The color of the dots represent the depth of the earthquakes.
 
@@ -52,6 +53,9 @@ A scattor plot of time vs magnitude. The color of the dots represent the depth o
 )](https://vizhub.com/Ljz2018/6f179af027ab4495b08506720de46bed)
 
 ## Self-Critique and Reprioritization (Date: 04-10-2024)
+
+I've made a bubble map to display the earthquakes on the world map.
+[![image](https://github.com/Ljz2018/dataviz-project-CS573-proposal/assets/139059537/6e68260a-28f0-4464-9d30-99ae94396a23>)](https://vizhub.com/Ljz2018/a11b81a4002c44edb44c14f259dd948c)
 
 I am quite satisfied with the map plot that I made. This map intuitively shows that the majority of the earthquakes were happened along the boundries of the plates. 
 There are more earthquakes around the pacific ocean than the other places on earth. The region along the south coastline in Alaska and the west coast of America has the most seismic activities. These earthquakes are dominantly less than Magnitude of 2.5 (M2.5). Luckily, this is the level that won't cause damages and are not felt by human. Click and Check the [Earthquake Magnitude Scale](https://www.mtu.edu/geo/community/seismology/learn/earthquake-measure/magnitude/).
@@ -61,15 +65,20 @@ With my limited coding experience, I found it was quite difficult to add all the
 Besides, though the weeks working with this project, I realized that a good data visualization does not necessarily have to be fancy, but it should be easy to understand. It is not an app or a tool, it does not have to include all kinds of interactions. I think the most important thing of data visualization is to deliver the information from the data. 
 
 
+## Progress Updates (Date: 04-17-2024)
 
+This week I made a linked views of the map and the scatter plot. These two plots are associated with a brushing tool on the scatter plot.
+[![image](https://github.com/Ljz2018/dataviz-project-CS573-proposal/assets/139059537/b3bb6a67-199e-4a3c-97c3-f7ed82bd898e
+)](https://vizhub.com/Ljz2018/14506278d7ae4a198f26e58123195f3d)
+This data visualization allows users to select a time frame on the scatter plot and view the earthquakes that occurred within that time frame on the map. By dragging the brush across the x-scale, users can observe the dynamic changes in earthquake occurrences over time.
 
 
 
 ## Open Questions
 
 * How to make a dual-axis chart with line chart and column chart in one chart using d3?
-* How to add filter button to my dataviz?
-* How to add a second plot in the same dataviz? Like the one in my sketch.
+* How to add filter button to my dataviz? (resolved)
+* How to add a second plot in the same dataviz? Like the one in my sketch. (resolved)
 
 
 ## Milestones (5 weeks to go)
