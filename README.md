@@ -67,7 +67,7 @@ I’ve created a proof of concept visualization of this data.
 
 ## Earthquakes on Map 
 
-From the prototype, I made some improvements and created an interactive map with bubbles to illustrate the earthquakes on the world map.
+I improved upon the prototype and created an interactive map with bubbles to illustrate earthquakes worldwide.
 
 [![image](https://github.com/Ljz2018/dataviz-project-CS573-proposal/assets/139059537/6e68260a-28f0-4464-9d30-99ae94396a23>)](https://vizhub.com/Ljz2018/a11b81a4002c44edb44c14f259dd948c)
 
