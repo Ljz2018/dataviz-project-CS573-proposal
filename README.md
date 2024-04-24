@@ -95,7 +95,10 @@ Hover onto legend to highlight one of the depth categoties in the scatter plot.
 Findings:
 
 * The earthquakes at shallow depths cover the widest range of magnitudes. The majority of the earthquakes that occurred in the past 7 days were at this depth range. Among these shallow depth earthquakes, most are under M3.5, which is too minor to cause damage.
-* Earthquakes at deep depths were all above M4.0. 
+* Magnitude range of the earthquakes at intermediate depths is narrower. 
+* Earthquakes at deep depths were all above M4.0.
+* In a conclusion, when the depth goes deeper, the lower bound of the magnitude range goes higher.
+
 
 ## Linked Views of Earthquake Map and Magnitude Scatter Plot
 
