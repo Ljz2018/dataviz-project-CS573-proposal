@@ -62,8 +62,8 @@ I’ve created a proof of concept visualization of this data.
 
 2. A scattor plot of time vs magnitude. The color of the dots represent the depth of the earthquakes.
 
-[![image](https://github.com/Ljz2018/dataviz-project-CS573-proposal/assets/139059537/aa27cd21-bf9b-457c-830d-3f9867c8531a>
-)](https://vizhub.com/Ljz2018/6f179af027ab4495b08506720de46bed)
+[![image](https://github.com/Ljz2018/dataviz-project-CS573-report/assets/139059537/1803c636-9fbd-4676-931e-3e1626b11ed1
+)](https://vizhub.com/Ljz2018/e18ed8e2dd7c4b7ab056458c8b524527)
 
 ## Earthquakes on Map 
 
@@ -73,13 +73,29 @@ From the prototype, I made some improvements and created an interactive map with
 
 This map intuitively shows that the majority of the earthquakes occurred along the boundaries of the plates. There are more earthquakes around the Pacific Ocean than in other places on Earth. The region along the south coastline in Alaska and the west coast of America has the most seismic activity. These earthquakes are predominantly less than Magnitude 2.5 (M2.5). Luckily, this is a level that won't cause damage and is not felt by humans. Click and Check the [Earthquake Magnitude Scale](https://www.mtu.edu/geo/community/seismology/learn/earthquake-measure/magnitude/).
 
-Interactions included:
+Interactions include:
 
 * Zooming to enlarge the map
 * Dropdown menus to filter the data
 * Buttuns for rotating the map
 * Linked url with each circle
 * Added tooltip to each cirlce
+
+## Magnitude over Time Scatter Plot
+
+[![image](https://github.com/Ljz2018/dataviz-project-CS573-report/assets/139059537/0cca9752-6649-45ab-a964-ea2bb4e10ca6
+)](https://vizhub.com/Ljz2018/52f6c98fa1164ca4a613bde994b672c3)
+
+This scatter plot demonstates the relationship in between the depth and the magnitude of the earthquakes. All the circles are categorized into three colors. Each color represents a depth range: shallow, imtermediate, and deep. 
+
+Interaction:
+
+Hover onto legend to highlight one of the depth categoties in the scatter plot.
+
+Findings:
+
+* The earthquakes at shallow depths cover the widest range of magnitudes. The majority of the earthquakes that occurred in the past 7 days were at this depth range. Among these shallow depth earthquakes, most are under M3.5, which is too minor to cause damage.
+* Earthquakes at deep depths were all above M4.0. 
 
 ## Linked Views of Earthquake Map and Magnitude Scatter Plot
 
