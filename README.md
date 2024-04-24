@@ -86,7 +86,7 @@ Interactions include:
 [![image](https://github.com/Ljz2018/dataviz-project-CS573-report/assets/139059537/0cca9752-6649-45ab-a964-ea2bb4e10ca6
 )](https://vizhub.com/Ljz2018/52f6c98fa1164ca4a613bde994b672c3)
 
-This scatter plot demonstates the relationship in between the depth and the magnitude of the earthquakes. All the circles are categorized into three colors. Each color represents a depth range: shallow, imtermediate, and deep. 
+This scatter plot demonstrates the relationship between the depth and magnitude of earthquakes. All the circles are categorized into three colors, with each color representing a depth range: shallow, intermediate, and deep.
 
 Interaction:
 
