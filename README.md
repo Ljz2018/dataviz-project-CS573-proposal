@@ -22,7 +22,7 @@ The following tasks and questions will drive the visualization and interaction d
 
  * Plot earthquakes on the world map to show the earthquakes location.
    - Do seismic activity majorly happen along the edge of tectonic plates?
-   - Which part of the earth has the most seismic activity in the past 30 days?
+   - Which part of the earth has the most seismic activity?
  * Is there any correlation between the magnitude of earthquake and the depth of earthquake?
  * Are there any interesting patterns of the earthquakes at the region with the most seismic activity?
  * Make interactions such as:
